@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Here is my blog"
+  },
+  {
+    "objectID": "blog.html#my-blog",
+    "href": "blog.html#my-blog",
+    "title": "Blog",
+    "section": "",
+    "text": "Here is my blog"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Here is a showcase of my research."
+  },
+  {
+    "objectID": "publications.html#my-publications",
+    "href": "publications.html#my-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Here is a showcase of my research."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Here are my contact details"
+  },
+  {
+    "objectID": "contact.html#contact",
+    "href": "contact.html#contact",
+    "title": "Contact",
+    "section": "",
+    "text": "Here are my contact details"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nRisto-Matti Toivonen\n",
+    "section": "",
+    "text": "Risto-Matti Toivonen\n\n\n\nI am a Sports Scientist with extensive experience in football analytics and research. My work focuses on using data-driven insights to enhance athletic performance, optimize training programs, and contribute to the overall success of professional football teams."
+  },
+  {
+    "objectID": "index.html#welcome-to-my-website",
+    "href": "index.html#welcome-to-my-website",
+    "title": "Home",
+    "section": "",
+    "text": "This is the home page. Here you can write a brief introduction about yourself, your research, and anything else you want to share."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Here is a showcase of my work."
+  },
+  {
+    "objectID": "portfolio.html#my-portfolio",
+    "href": "portfolio.html#my-portfolio",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Here is a showcase of my work."
+  }
+]

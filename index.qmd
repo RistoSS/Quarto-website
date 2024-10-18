@@ -1,7 +1,10 @@
----
-title: "Home"
----
+<div class="centered-content">
+  <h1>Risto-Matti Toivonen</h1>
+  <hr class="divider-line">
 
-## Welcome to My Website
-
-This is the home page. Here you can write a brief introduction about yourself, your research, and anything else you want to share.
+  <p class="about-text">
+    I am a __Sports Scientist__ with extensive experience in __football analytics__ and __research__. 
+    My work focuses on using data-driven insights to enhance athletic performance, optimize training programs, 
+    and contribute to the overall success of professional football teams.
+  </p>
+</div>

@@ -2,11 +2,12 @@ project:
   type: website
 
 website:
-  title: "Your Name"
+  title: "Home"
   navbar:
     left:
       - text: "Home"
         href: index.qmd
+    right:
       - text: "Portfolio"
         href: portfolio.qmd
       - text: "Publications"
