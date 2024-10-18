@@ -1,12 +1,12 @@
 {
-    "id": "468B451D",
-    "path": "~/Desktop/RM analytics/Quarto website/R/quarto_website.qmd",
-    "project_path": "R/quarto_website.qmd",
+    "id": "14397BFA",
+    "path": "~/Desktop/RM analytics/Quarto website/portfolio.qmd",
+    "project_path": "portfolio.qmd",
     "type": "quarto_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1729254171574.0,
+    "created": 1729255297529.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
@@ -15,18 +15,18 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,0",
-        "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "61:0"
+        "cursorPosition": "0,0",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "2:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1729254214,
+    "lastKnownWriteTime": 1729255340,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1729254214840,
+    "last_content_update": 1729255340108,
     "read_only": false,
     "read_only_alternatives": []
 }
