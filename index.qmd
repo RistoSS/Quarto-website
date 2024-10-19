@@ -3,7 +3,7 @@
   <hr class="divider-line">
 
   <p class="about-text">
-    I am a __Sports Scientist__ with extensive experience in __football analytics__ and __research__. 
+    I am a <strong>Sports Scientist</strong> with extensive experience in <strong>football analytics</strong> and <strong>research</strong>. 
     My work focuses on using data-driven insights to enhance athletic performance, optimize training programs, 
     and contribute to the overall success of professional football teams.
   </p>

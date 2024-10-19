@@ -6,7 +6,7 @@ website:
   
   page-footer:
     center: |
-      [Contact: Risto-Matti Toivonen](mailto:your.email@example.com)
+      [Contact: Risto-Matti Toivonen](mailto:ristomatti.toivonen@gmail.com)
     right: |
       [GitHub](https://github.com/RistoSS) | [LinkedIn](https://linkedin.com/in/risto-matti-toivonen) | [Email](mailto:your.email@example.com)
 
@@ -22,10 +22,10 @@ website:
         href: portfolio.qmd
       - text: Publications
         href: publications.qmd
-      - text: Contact
-        href: contact.qmd
       - text: Blog
         href: blog.qmd
+      - text: Contact
+        href: contact.qmd
     right:
       - icon: github
         href: https://github.com/RistoSS

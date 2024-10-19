@@ -1,7 +1,1 @@
----
-title: "Portfolio"
----
-
-## My Portfolio
-
-Here is a showcase of my work.
+## Projects
