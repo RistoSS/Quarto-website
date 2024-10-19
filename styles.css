@@ -6,8 +6,6 @@
   padding-top: 20px; /* Adds space above the navbar links */
   padding-bottom: 20px; /* Adds space below */
   border-bottom: none; /* Removes the bottom border */
-  margin: 0; /* No extra margin around the navbar */
-  display: flex;
   justify-content: space-between; /* Pushes content to both sides */
 }
 
@@ -17,7 +15,13 @@
   color: #333333; /* Dark grey color */
 }
 
-/* Hover effect: Change color and add a dashed line */
+/* Set color for active links */
+.navbar .nav-link.active,
+.navbar .nav-link.active span {
+  color: #333333; /* Dark grey color */
+}
+
+/* Hover effect: Change color */
 .navbar a:hover {
   color: #2b7379; /* Change color on hover */
 }

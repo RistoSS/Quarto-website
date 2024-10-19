@@ -2,20 +2,39 @@ project:
   type: website
 
 website:
-  title: "Home"
+  title: "Risto-Matti Toivonen"
+  
+  page-footer:
+    center: |
+      [Contact: Risto-Matti Toivonen](mailto:your.email@example.com)
+    right: |
+      [GitHub](https://github.com/RistoSS) | [LinkedIn](https://linkedin.com/in/risto-matti-toivonen) | [Email](mailto:your.email@example.com)
+
+  search:
+    location: navbar
+    type: overlay
+
   navbar:
     left:
-      - text: "Home"
-        href: index.qmd
-    right:
-      - text: "Portfolio"
+      - text: About
+        href: about.qmd
+      - text: Portfolio
         href: portfolio.qmd
-      - text: "Publications"
+      - text: Publications
         href: publications.qmd
-      - text: "Contact"
+      - text: Contact
         href: contact.qmd
-      - text: "Blog"
+      - text: Blog
         href: blog.qmd
+    right:
+      - icon: github
+        href: https://github.com/RistoSS
+      - icon: linkedin
+        href: https://linkedin.com/in/risto-matti-toivonen
+      - icon: twitter
+        href: https://twitter.com/RM_toivonen
+      - icon: envelope
+        href: mailto:ristomatti.toivonen@gmail.com
 
 format:
   html:

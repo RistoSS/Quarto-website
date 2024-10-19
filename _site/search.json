@@ -68,5 +68,33 @@
     "title": "Portfolio",
     "section": "",
     "text": "Here is a showcase of my work."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi, I’m a Sports Scientist with 9 years of experience in professional football. My expertise lies in applying data-driven approach to guide decision-making, player profiling and long-term athletic development. I utilize advanced statistical analysis and machine learning to generate actionable insights that inform coaching strategies, enhance player development, and support recruitment decisions for relevant stakeholders.\n\n\nUniversity of Jyväskylä | Jyväskylä, Finland | Ph.D. in Sports Science | Sep 2022 - Present\nUniversity of Konstanz  | Konstanz, Germany | M.Sc. in Sports Science | Oct 2017 - Dec 2019\nSatakunta University of Applied Sciences  | Pori, Finland | B.Sc. in Physiotherapy | Oct 2013 - Dec 2016\n\n\n\nSJK Football Club | First Team Sports Scientist | Dec 2021 - present\nFinnish Football National Team | U21 Sports Scientist | Jun 2021 - Jun 2022\nHIFK Football Club | First Team Sports Scientist | Dec 2018 - Oct 2021\nPohjola Hospital | Sports Physiotherapist | Mar 2019 - Oct 2021\n\n\n\nUEFA C Diploma | Finnish FA\nUEFA Fitness Diploma | Finnish FA"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "University of Jyväskylä | Jyväskylä, Finland | Ph.D. in Sports Science | Sep 2022 - Present\nUniversity of Konstanz  | Konstanz, Germany | M.Sc. in Sports Science | Oct 2017 - Dec 2019\nSatakunta University of Applied Sciences  | Pori, Finland | B.Sc. in Physiotherapy | Oct 2013 - Dec 2016"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "",
+    "text": "SJK Football Club | First Team Sports Scientist | Dec 2021 - present\nFinnish Football National Team | U21 Sports Scientist | Jun 2021 - Jun 2022\nHIFK Football Club | First Team Sports Scientist | Dec 2018 - Oct 2021\nPohjola Hospital | Sports Physiotherapist | Mar 2019 - Oct 2021"
+  },
+  {
+    "objectID": "about.html#certifications",
+    "href": "about.html#certifications",
+    "title": "About",
+    "section": "",
+    "text": "UEFA C Diploma | Finnish FA\nUEFA Fitness Diploma | Finnish FA"
   }
 ]

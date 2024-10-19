@@ -1,5 +1,10 @@
 ---
 title: "Contact"
+image: profile_picture.jpeg
+about:
+  id: hero-heading
+  template: solana
+  image-width: 7cm
 ---
 
 ## Contact
