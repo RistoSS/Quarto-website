@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Risto-Matti Toivonen"
+  site-url: "https://RistoSS.github.io/Quarto-website"
   
   page-footer:
     center: |
