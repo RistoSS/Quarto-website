@@ -2,9 +2,9 @@
   {
     "objectID": "blog.html",
     "href": "blog.html",
-    "title": "Blog",
+    "title": "Risto-Matti Toivonen",
     "section": "",
-    "text": "Here is my blog"
+    "text": "Do we overload players physically during Small-Sided Games\n\n\n\n\n\n\nSmall-Sided Games\n\n\nTraining load\n\n\nGPS\n\n\n\n\n\n\n\n\n\nOct 22, 2024\n\n\nRisto-Matti Toivonen\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog.html#my-blog",
@@ -58,9 +58,9 @@
   {
     "objectID": "portfolio.html",
     "href": "portfolio.html",
-    "title": "Portfolio",
+    "title": "Projects",
     "section": "",
-    "text": "Here is a showcase of my work."
+    "text": "Blog\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUnderstanding Player Performance\n\n\n\nFootball Analytics\n\n\nPlayer Development\n\n\n\n\n\n\n\nRisto-Matti Toivonen\n\n\nOct 22, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Blog Post\n\n\n\nFootball Analytics\n\n\nResearch\n\n\n\n\n\n\n\nRisto-Matti Toivonen\n\n\nOct 20, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "portfolio.html#my-portfolio",
@@ -74,7 +74,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hi, I’m a Sports Scientist with 9 years of experience in professional football. My expertise lies in applying data-driven approach to guide decision-making, player profiling and long-term athletic development. I utilize advanced statistical analysis and machine learning to generate actionable insights that inform coaching strategies, enhance player development, and support recruitment decisions for relevant stakeholders.\n\n\nUniversity of Jyväskylä | Jyväskylä, Finland | Ph.D. in Sports Science | Sep 2022 - Present\nUniversity of Konstanz  | Konstanz, Germany | M.Sc. in Sports Science | Oct 2017 - Dec 2019\nSatakunta University of Applied Sciences  | Pori, Finland | B.Sc. in Physiotherapy | Oct 2013 - Dec 2016\n\n\n\nSJK Football Club | First Team Sports Scientist | Dec 2021 - present\nFinnish Football National Team | U21 Sports Scientist | Jun 2021 - Jun 2022\nHIFK Football Club | First Team Sports Scientist | Dec 2018 - Oct 2021\nPohjola Hospital | Sports Physiotherapist | Mar 2019 - Oct 2021\n\n\n\nUEFA C Diploma | Finnish FA\nUEFA Fitness Diploma | Finnish FA"
+    "text": "Hi, I’m a Sports Scientist with 9 years of experience in professional football. My expertise lies in applying data-driven approach to guide decision-making, player profiling and long-term athletic development. I utilize advanced statistical analysis and machine learning to generate actionable insights that inform coaching strategies, enhance player development, and support recruitment decisions for relevant stakeholders.\n\n\nUniversity of Jyväskylä | Jyväskylä, Finland | Ph.D. in Sports Science | Sep 2022 - Present\nUniversity of Konstanz  | Konstanz, Germany | M.Sc. in Sports Science | Oct 2017 - Dec 2019\nSatakunta University of Applied Sciences  | Pori, Finland | B.Sc. in Physiotherapy | Oct 2013 - Dec 2016\n\n\n\nSJK Football Club | First Team Sports Scientist | Dec 2021 - present\nFinnish Football National Team | U21 Sports Scientist | Jun 2021 - Jun 2022\nPohjola Hospital | Sports Physiotherapist | Mar 2019 - Oct 2021\nHIFK Football Club | First Team Sports Scientist | Dec 2018 - Oct 2021\n\n\n\nUEFA C Diploma | Finnish FA\nUEFA Fitness Diploma | Finnish FA\nIsometric Strength Training | Sportsmith\nHigh-Intensity Interval Training | HiitScience\nNeed for Speed | ALTIS"
   },
   {
     "objectID": "about.html#education",
@@ -88,14 +88,14 @@
     "href": "about.html#experience",
     "title": "About",
     "section": "",
-    "text": "SJK Football Club | First Team Sports Scientist | Dec 2021 - present\nFinnish Football National Team | U21 Sports Scientist | Jun 2021 - Jun 2022\nHIFK Football Club | First Team Sports Scientist | Dec 2018 - Oct 2021\nPohjola Hospital | Sports Physiotherapist | Mar 2019 - Oct 2021"
+    "text": "SJK Football Club | First Team Sports Scientist | Dec 2021 - present\nFinnish Football National Team | U21 Sports Scientist | Jun 2021 - Jun 2022\nPohjola Hospital | Sports Physiotherapist | Mar 2019 - Oct 2021\nHIFK Football Club | First Team Sports Scientist | Dec 2018 - Oct 2021"
   },
   {
     "objectID": "about.html#certifications",
     "href": "about.html#certifications",
     "title": "About",
     "section": "",
-    "text": "UEFA C Diploma | Finnish FA\nUEFA Fitness Diploma | Finnish FA"
+    "text": "UEFA C Diploma | Finnish FA\nUEFA Fitness Diploma | Finnish FA\nIsometric Strength Training | Sportsmith\nHigh-Intensity Interval Training | HiitScience\nNeed for Speed | ALTIS"
   },
   {
     "objectID": "publications.html#publications",
@@ -103,5 +103,47 @@
     "title": "Risto-Matti Toivonen",
     "section": "",
     "text": "DOI: 10.4324/9781003200420\nCo-author of Chapter 9 on Return-to-Play\n\n\n\nDOI: 10.1136/bmjsem-2023-001866\nCo-author on a study for musculoskeletal injury prevention in professional football\n\n\n\n\nDOI: 10.1136/bmjsem-2020-000758\nCo-author on a study for musculoskeletal injury prevention in professional football"
+  },
+  {
+    "objectID": "posts/post_performance.html",
+    "href": "posts/post_performance.html",
+    "title": "Understanding Player Performance",
+    "section": "",
+    "text": "Player Performance Metrics\nIn this post, I will delve into the various metrics used to assess player performance in football and how these insights can aid in talent scouting and player development."
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "posts/post_ssg.html",
+    "href": "posts/post_ssg.html",
+    "title": "Do we overload players physically during Small-Sided Games",
+    "section": "",
+    "text": "Introduction\nSmall-sided games (SSGs) are a common training tool used to replicate or overload the physical demands of official soccer matches. To accurately reflect the true intensity of match play, using whole-match or half-match average data should be avoided. To avoid this limitation, the data should be adjusted for the effective playing time (i.e ball-in-play time). This study aimed to determine whether SSGs with varying pitch sizes could replicate the physical demands of official matches in male professional soccer players when both are adjusted for effective playing time.\n\n\nMethods\nTwenty-six professional male soccer players participated in this study, which involved both 11v11 official matches and 5v5 SSGs across four pitch sizes (80m², 120m², 160m², 200m² area per player). The physical metrics recorded included total distance per minute, high-intensity running per minute, accelerations per minute, decelerations per minute, max acceleration, max deceleration, and max velocity. All data were collected using Catapult GPS devices (S7) and adjusted for effective playing time to provide a more accurate comparison between SSGs and official matches.\n\n\nResults\n\n\nThe study found that total distance per minute, maximum acceleration, deceleration, and velocity were significantly lower in all SSG formats compared to official matches. HIRPM values were only replicated in the two largest SSG formats (160m² and 200m²), while APM values were higher in all SSGs. DPM was only higher in SSGs with an area per player of 120m² or more.\n\n\nDiscussion\nThe findings suggest that SSGs with smaller pitch sizes fail to replicate the physical demands of official matches, particularly for total distance covered and maximum velocity. Although the larger pitch sizes were able to replicate high-intensity running, the mechanical demands (accelerations and decelerations) were generally higher in SSGs than in official matches. This indicates that while SSGs can be useful for overloading certain physical metrics, they are not fully representative of the physical demands seen in professional soccer matches."
+  },
+  {
+    "objectID": "posts/post1.html",
+    "href": "posts/post1.html",
+    "title": "My First Blog Post",
+    "section": "",
+    "text": "Introduction to Football Analytics\nIn this post, I’ll explore the basics of football analytics and how data can be used to optimize performance in professional football."
+  },
+  {
+    "objectID": "posts/post2.html",
+    "href": "posts/post2.html",
+    "title": "Understanding Player Performance",
+    "section": "",
+    "text": "Player Performance Metrics\nIn this post, I will delve into the various metrics used to assess player performance in football and how these insights can aid in talent scouting and player development."
+  },
+  {
+    "objectID": "posts/index.html#yaml",
+    "href": "posts/index.html#yaml",
+    "title": "Blog",
+    "section": "",
+    "text": "title: “My First Blog Post” author: “Risto-Matti Toivonen” date: “2024-10-20” categories: [Football Analytics, Research] —"
   }
 ]

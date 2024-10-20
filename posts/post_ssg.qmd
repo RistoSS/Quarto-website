@@ -1,0 +1,30 @@
+---
+title: "Do we overload players physically during Small-Sided Games"
+author: "Risto-Matti Toivonen"
+date: "2024-10-22"
+categories: [Small-Sided Games, Training load, GPS]
+format:
+  html:
+    page-layout: article
+---
+
+# Introduction
+
+Small-sided games (SSGs) are a common training tool used to replicate or overload the physical demands of official soccer matches. To accurately reflect the true intensity of match play, using whole-match or half-match average data should be avoided. To avoid this limitation, the data should be adjusted for the effective playing time (i.e ball-in-play time). This study aimed to determine whether SSGs with varying pitch sizes could replicate the physical demands of official matches in male professional soccer players when both are adjusted for effective playing time.
+
+# Methods
+
+Twenty-six professional male soccer players participated in this study, which involved both 11v11 official matches and 5v5 SSGs across four pitch sizes (80m², 120m², 160m², 200m² area per player). The physical metrics recorded included total distance per minute, high-intensity running per minute, accelerations per minute, decelerations per minute, max acceleration, max deceleration, and max velocity. All data were collected using Catapult GPS devices (S7) and adjusted for effective playing time to provide a more accurate comparison between SSGs and official matches.
+
+# Results
+
+![](images/mechanical_combined_plot.png){width="800"}
+
+
+![](images/locomotor_combined_plot.png){width="800"} 
+
+The study found that total distance per minute, maximum acceleration, deceleration, and velocity were significantly lower in all SSG formats compared to official matches. HIRPM values were only replicated in the two largest SSG formats (160m² and 200m²), while APM values were higher in all SSGs. DPM was only higher in SSGs with an area per player of 120m² or more.
+
+# Discussion
+
+The findings suggest that SSGs with smaller pitch sizes fail to replicate the physical demands of official matches, particularly for total distance covered and maximum velocity. Although the larger pitch sizes were able to replicate high-intensity running, the mechanical demands (accelerations and decelerations) were generally higher in SSGs than in official matches. This indicates that while SSGs can be useful for overloading certain physical metrics, they are not fully representative of the physical demands seen in professional soccer matches.
