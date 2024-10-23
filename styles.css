@@ -1,15 +1,16 @@
+/* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
-/* Lower the position of the navbar links */
+/* Basic navbar styles */
 .navbar {
   background-color: white; /* Keeps the background white */
   padding-top: 20px; /* Adds space above the navbar links */
   padding-bottom: 20px; /* Adds space below */
-  border-bottom: none; /* Removes the bottom border */
   justify-content: space-between; /* Pushes content to both sides */
+  border-bottom: none; /* Removes the bottom border */
 }
 
-/* Apply Montserrat only to the navbar names (links) */
+/* Apply Montserrat font to the navbar links */
 .navbar a {
   font-family: 'Montserrat', sans-serif; /* Only navbar links in Montserrat */
   color: #333333; /* Dark grey color */
@@ -53,4 +54,48 @@
   width: 100px;
   border: 2px solid black; /* You can change the thickness/color of the line */
   margin: 20px 0; /* Space between the name and the icons */
+}
+
+/* Mobile-specific styles: Ensure the navbar behaves responsively */
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px; /* Adjust padding for mobile */
+    padding-bottom: 10px; /* Adjust padding for mobile */
+  }
+
+  /* Show the hamburger menu button on mobile */
+  .navbar-toggler {
+    display: block;
+    background-color: transparent;
+    border: none;
+    font-size: 1.5rem;
+  }
+
+  /* Optional: Custom hamburger icon */
+  .navbar-toggler-icon {
+    background-image: url('data:image/svg+xml;base64,...'); /* Use default Bootstrap or a custom icon */
+  }
+
+  /* Initially hide the navbar links on mobile */
+  .navbar-collapse {
+    display: none; /* Hidden when collapsed */
+  }
+
+  /* When toggler is clicked, show the navbar links */
+  .navbar-toggler.collapsed + .navbar-collapse {
+    display: block; /* Show the menu links when toggled */
+  }
+
+  /* Navbar items on mobile */
+  .navbar-nav {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  /* Ensure navbar links stack vertically */
+  .navbar-nav .nav-item {
+    margin-bottom: 10px; /* Adds space between the links */
+  }
 }
