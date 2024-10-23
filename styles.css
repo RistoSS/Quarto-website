@@ -54,3 +54,11 @@
   border: 2px solid black; /* You can change the thickness/color of the line */
   margin: 20px 0; /* Space between the name and the icons */
 }
+
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) {
+    .x-bar.navshadow {
+        width: 100% !important;
+    }
+}
